@@ -1,5 +1,3 @@
-# SPART-ITSC-2026
-
 # SPART: Spatial-Partitioning and Adaptive Real-time Temporal Algorithm
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)

@@ -1,0 +1,30 @@
+{
+  "config": {
+    "csv_path": "vehicle_tracks_000.csv",
+    "frame_start": 0,
+    "frame_end": null,
+    "frames_to_run": 8874,
+    "fov_deg": 120.0,
+    "delta_deg": 0.5,
+    "r_max": 15.0,
+    "output_dir": "OutputVanilla",
+    "plots_dir": "OutputVanilla/plots",
+    "save_plots_svg": false,
+    "enable_instrumentation": true,
+    "random_seed": 12345,
+    "synthetic_densities": [
+      10,
+      25,
+      50,
+      100,
+      200
+    ],
+    "synthetic_repeats": 3
+  },
+  "env_info": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "python_version": "3.11.9",
+    "numpy": "2.0.2",
+    "psutil_available": true
+  }
+}

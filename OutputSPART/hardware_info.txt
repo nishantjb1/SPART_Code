@@ -1,0 +1,19 @@
+Environment Information
+==================================================
+
+platform: Windows-10-10.0.26200-SP0
+python_version: 3.11.9
+numpy_version: 2.0.2
+numba_available: True
+numba_version: 0.61.0
+numba_threads: 4
+
+==================================================
+Hardware Information
+==================================================
+
+CPU count (logical): 12
+CPU count (physical): 10
+CPU frequency: 1700.00 MHz
+Total RAM: 23.69 GB
+Available RAM: 8.35 GB

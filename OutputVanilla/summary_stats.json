@@ -1,0 +1,9 @@
+{
+  "frames": 8749,
+  "mean_time_ms": 6.417632483768591,
+  "median_time_ms": 5.541299993637949,
+  "fps_mean": 155.82070218716788,
+  "mean_sum_m_k": 6511.5450908675275,
+  "mean_SEI": 1.0,
+  "mean_eligibility_muted_ratio": 0.0
+}

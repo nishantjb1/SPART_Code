@@ -1,0 +1,47 @@
+{
+  "config": {
+    "csv_path": "vehicle_tracks_000.csv",
+    "use_numba": true,
+    "numba_threads": 4,
+    "cell_size": 10.0,
+    "grid_padding": 5.0,
+    "frame_start": null,
+    "frames_to_run": 8875,
+    "fov_deg": 120.0,
+    "delta_deg": 0.5,
+    "r_max": 15.0,
+    "ego_circular_motion": true,
+    "ego_circle_radius": 15.0,
+    "ego_circle_speed": 5.398298934,
+    "ego_circle_center": [
+      996.0,
+      999.0
+    ],
+    "ego_pos": [
+      995.0,
+      1000.0
+    ],
+    "ego_vel": [
+      0.0,
+      0.0
+    ],
+    "ego_psi": 0.0,
+    "output_dir": "OutputSPART",
+    "scans_dir": "OutputSPART/scans",
+    "pc_dir": "OutputSPART/PointClouds",
+    "save_gif": false,
+    "gif_fps": 12,
+    "frames_for_gif": 200,
+    "warmup_numba": true,
+    "enable_grid": false,
+    "save_pointcloud": false
+  },
+  "env_info": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "python_version": "3.11.9",
+    "numpy_version": "2.0.2",
+    "numba_available": true,
+    "numba_version": "0.61.0",
+    "numba_threads": 4
+  }
+}

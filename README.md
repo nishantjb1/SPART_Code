@@ -13,15 +13,11 @@ SPART is an efficient computational framework designed to extract virtual LiDAR-
 
 SPART is built to run on standard hardware without requiring a heavy GPU cluster.
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/anonymous-repo/SPART.git](https://github.com/anonymous-repo/SPART.git)
-   cd SPART
 
-2. **Dataset Preparation**
+1. **Dataset Preparation**
 This framework is configured to process the INTERACTION Dataset (https://interaction-dataset.com/)
    
-3. **Install dependencies:**
+2. **Install dependencies:**
 It is recommended to use a virtual environment.
 ```bash
    pip install numpy pandas matplotlib scipy numba imagio

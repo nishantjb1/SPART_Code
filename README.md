@@ -17,11 +17,11 @@ SPART is built to run on standard hardware without requiring a heavy GPU cluster
    ```bash
    git clone [https://github.com/anonymous-repo/SPART.git](https://github.com/anonymous-repo/SPART.git)
    cd SPART
+
+2. **Dataset Preparation**
+This framework is configured to process the INTERACTION Dataset (https://interaction-dataset.com/)
    
-2. **Install dependencies:**
+3. **Install dependencies:**
 It is recommended to use a virtual environment.
 ```bash
-  pip install numpy pandas matplotlib scipy numba imageio
-
-3. **Dataset Preparation**
-This framework is configured to process the INTERACTION Dataset (https://interaction-dataset.com/)
+   pip install numpy pandas matplotlib scipy numba imagio

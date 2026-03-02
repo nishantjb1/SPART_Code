@@ -4,7 +4,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper: ITSC 2026 (Under Review)](https://img.shields.io/badge/Paper-ITSC_2026_(Under_Review)-green.svg)]()
 
 > **Note:** This repository has been anonymized for double-blind peer review at IEEE ITSC 2026. 
 
